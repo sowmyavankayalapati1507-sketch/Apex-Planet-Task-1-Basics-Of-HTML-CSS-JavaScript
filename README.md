@@ -14,3 +14,5 @@ This task lays the groundwork for future development.
 Includes README with setup instructions.
 
 OUTPUT:
+
+<img width="1075" height="591" alt="Image" src="https://github.com/user-attachments/assets/a0df8ab3-bae4-4eca-b81b-d64b8ab4a73d" />
